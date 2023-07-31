@@ -11,7 +11,7 @@ DEIXANDO O CÓDIGO MAIS MODULARIZADO
 
 Além disso, criar duas novas funções
     - usuário (cliente do banco); e
-        Usuário deve ser armazenado em uma lista. É composto por: Nome, data de nascimento, CPF e endereço. O endereço é um string (logradouro, nro - bairro - cidade/sigla estado.
+        Usuário deve ser armazenado em uma lista. É composto por: Nome, data de nascimento, CPF e endereço. O endereço é um string (logradouro, nro - bairro - cidade/sigla estado.)
         Deve ser armazeado somente os numeros do CPF. Não podendo ter2 usuários com o mesmo CPF
     - conta corrente (vincular com o usuário).
         Conta deve ser armazenado em uma lista. Composta por agência, número da conta e usuário. 
